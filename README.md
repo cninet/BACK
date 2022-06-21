@@ -11,7 +11,7 @@
 สามารถเข้าถึงได้ที่: https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
 
 ## อยากลองเล่นในฉบับโค้ดเต็ม ๆ สามารถกดที่ไฟล์ BACK.ipynb ในโน้ตบุ๊กนี้ได้เลย!
-เวลารันก็สามารถเลือก run all ได้เลย ผ่านฉลุย~!
 https://colab.research.google.com/github/cninet/BACK/blob/main/BACK.ipynb
+เวลารันก็สามารถเลือก run all ได้เลย ผ่านฉลุย~!
 
 ### สำหรับใครที่อ่านตรงนี้แล้วดูแห้ง ๆ ไม่เข้าใจอะไรเลย แนะนำให้ไปอ่านใน Medium เพราะอธิบายไว้ละเอียดมาก!
